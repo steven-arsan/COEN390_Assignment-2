@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/name_mode"
+        android:icon="@drawable/ic_icon"
+        android:title="Display by Name"/>
+
+    <item android:id="@+id/id_mode"
+        android:icon="@drawable/ic_icon"
+        android:title="Display by ID"/>
+
+
+</menu>
